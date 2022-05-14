@@ -14,7 +14,7 @@ using MihaZupan;
 var httpClient = new HttpClient(new HttpClientHandler { Proxy = proxy, UseProxy = true });
 var botClient = new TelegramBotClient("5194650604:AAEtzHRNw3fHzbTWksa5OkRSbaQjjZJZSTI", httpClient);*/
 
-var botClient = new TelegramBotClient("5194650604:AAEzt1AovSpGGk9WlOmeJIBkaegESmNgmkc");
+var botClient = new TelegramBotClient("TOKEN");
 
 //block 
 int blockLevel = 0;

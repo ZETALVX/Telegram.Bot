@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLpyL+dsmgQn+rrvq6oC70iO+z/pM7N86aQTYpBudX6XBXMalI4ultHea1/z6sWKLwp2Ydo+ydxFulQGpK86ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boss\\source\\repos\\BotTestTelegram\\BotTestTelegram\\BotTestTelegram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boss\\.nuget\\packages\\httptosocks5proxy\\1.4.0\\httptosocks5proxy.1.4.0.nupkg.sha512",
+    "C:\\Users\\Boss\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Boss\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Boss\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Boss\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
